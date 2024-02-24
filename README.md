@@ -1,4 +1,4 @@
-# Playlist Management Web App
+# Music Player
 
 This project is a web application built with HTML, CSS, and JavaScript that allows users to manage playlists and play songs from a sample playlist.
 
